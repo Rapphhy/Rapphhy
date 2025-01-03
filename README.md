@@ -38,14 +38,6 @@ In payments, I witnessed firsthand how small changes could make a big impact—r
 
 ---
 
-## 📜 Certifications  
-- **Dashboard and Data Visualization (CFI)**  
-- **Advanced Excel Formulas and Functions (CFI)**  
-- **Software Testing Masterclass**  
-- **Data Science (2024)**  
-
----
-
 ## 🚀 The Road Ahead  
 
 Transitioning into **Data Analytics** and **Quality Assurance** isn’t just a career pivot—it’s the continuation of a lifelong love for problem-solving and discovery. I’m driven to build systems that work better, faster, and smarter while creating stories from data that lead to impactful decisions.  
